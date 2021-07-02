@@ -1,4 +1,4 @@
-<img align="center" src="https://images.unsplash.com/photo-1601677492421-a9ec2452ca57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80&h=200" />
+<img align="center" src="https://t3.ftcdn.net/jpg/03/52/39/00/360_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
 
 <br>
 
