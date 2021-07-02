@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vantercarlos&layout=compact&langs_count=4&show_icons=true&theme=dark" height="125" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vantercarlos?hide=issues&show_icons=true&theme=dark" height="125" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vantercarlos&show_icons=true&theme=dark" height="125" />
 </a>
 
 <br>
